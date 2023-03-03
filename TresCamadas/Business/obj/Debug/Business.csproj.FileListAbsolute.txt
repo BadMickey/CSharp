@@ -1,0 +1,11 @@
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\bin\Debug\Business.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\bin\Debug\Business.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\bin\Debug\Database.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\bin\Debug\Database.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\obj\Debug\Business.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\obj\Debug\Business.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\bin\Debug\DatabaseSQL.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Business\bin\Debug\DatabaseSQL.pdb

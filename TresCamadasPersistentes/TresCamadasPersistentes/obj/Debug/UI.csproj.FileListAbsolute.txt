@@ -1,0 +1,16 @@
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\TresCamadasPersistentes.exe.config
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\TresCamadasPersistentes.exe
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\TresCamadasPersistentes.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\Business.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\Database.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\Business.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\bin\Debug\Database.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\TresCamadasPersistentes.Form1.resources
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\TresCamadasPersistentes.Properties.Resources.resources
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\UI.csproj.CopyComplete
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\TresCamadasPersistentes.exe
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadasPersistentes\TresCamadasPersistentes\obj\Debug\TresCamadasPersistentes.pdb

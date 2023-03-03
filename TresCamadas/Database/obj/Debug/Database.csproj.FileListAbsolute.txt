@@ -1,0 +1,6 @@
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Database\bin\Debug\Database.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Database\bin\Debug\Database.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Database\obj\Debug\Database.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\TresCamadas\Database\obj\Debug\Database.pdb

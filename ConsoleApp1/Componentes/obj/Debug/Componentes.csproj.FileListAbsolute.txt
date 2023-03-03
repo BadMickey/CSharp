@@ -1,0 +1,6 @@
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\Componentes\bin\Debug\Componentes.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\Componentes\bin\Debug\Componentes.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\Componentes\obj\Debug\Componentes.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\Componentes\obj\Debug\Componentes.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\Componentes\obj\Debug\Componentes.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\Componentes\obj\Debug\Componentes.pdb

@@ -1,0 +1,11 @@
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\bin\Debug\Componentes.dll
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\bin\Debug\Componentes.pdb
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\obj\Debug\CursoCs.csproj.AssemblyReference.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\obj\Debug\CursoCs.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\obj\Debug\CursoCs.csproj.CoreCompileInputs.cache
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\obj\Debug\CursoCs.csproj.CopyComplete
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\joaov\source\repos\C# - Estudos do estágio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
